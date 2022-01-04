@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmadmijot
 - 👀 I’m interested in machine learning, 3D printing and stuff
 - 🌱 I’m currently learning Rust and Python
-- 💞️ I’m looking to collaborate on some beginners level open source project.
+- 💞️ I’m looking to collaborate on some beginners level open source projects.
 - 📫 Just message me if you're interested to collaborate with me.
 
 <!---
